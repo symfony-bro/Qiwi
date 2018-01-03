@@ -1,5 +1,5 @@
 {
-    "name":        "werkint/qiwi",
+    "name":        "symfony-bro/qiwi",
     "type":        "library",
     "description": "Платежная библиотека для QIWI через SOAP",
     "license":     "own",
